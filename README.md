@@ -41,4 +41,4 @@ Each code block includes a short explanation of what is happening.
 ## ▶️ How to Run
 ```bash
 pip install pandas numpy matplotlib seaborn
-jupyter notebook Campaign_to_Pipeline_Analytics_FULL_NARRATED.ipynb
+jupyter notebook Campaign_to_Pipeline_Analytics_FULL.ipynb
